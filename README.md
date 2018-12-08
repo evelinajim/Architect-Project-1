@@ -33,8 +33,8 @@ Using the Merge sort and the control structures coded up in sub project 1 repeat
 # How it functions on Jupyter Notebook
 So as mentioned above, I cannot open up my Jupyter Notebook at the moment due to a faulty update. I however have some screenshots from when it did work, I will reference them below
 ![hello](hello.PNG)
-![hello1](hello1.PNG)
 ![hello2](hello2.PNG)
+![hello3](hello3.PNG)
 
 
 # Youtube video
