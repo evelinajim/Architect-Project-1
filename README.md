@@ -1,6 +1,17 @@
 # Architect-Project-1
+'my jupyter notebook decided to crash on me so I decided to write down my documentation here.'
+To learn arm assembly, writing in arm, troubleshooting arm, building.
+The purpose of recursive Merge Sort:
+This merge sort calls for two lists by breaking the array into two. It then orders them separately 
+using a recursive call to order the subarrays, so that then it can be two ordered list. Once ordered,
+it merges the lists and returns one ordered list. We can see how it sorts it here with the use of L = ; and R = ;
 
-To learn arm assembly, writing in arm, troubleshooting arm, building, and so on
+The purpose of Iterative/Non-Recursive Mergesort:
+Trying to figure out an effective way to sort out a list of 16, 32, 128 with a few number of cycles.
+This way it'll cut out time for us and work on our raspberry pi. This focuses on loops and N iterations
+if the loop is i < n (essentially) then the loop will continue to keep going and sorting the list; however
+once it is i >= n the loop will end because the loop has reached all N iterations. It sorts it as well. We can
+see how it does it here with the use k = ;
 
 # Sub Project 1 Control Structure
 * Code up a C/C++ Goto statement
