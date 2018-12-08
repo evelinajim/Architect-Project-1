@@ -38,4 +38,5 @@ So as mentioned above, I cannot open up my Jupyter Notebook at the moment due to
 
 
 # Youtube video
-Processing!
+https://www.youtube.com/watch?v=9IvCbkMwphw&t=513s <p>
+  https://www.youtube.com/watch?v=hOX_fHDJ3cY 
