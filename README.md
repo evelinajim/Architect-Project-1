@@ -1,5 +1,5 @@
 # Architect-Project-1
-"my jupyter notebook decided to crash on me so I decided to write down my documentation here."
+-my jupyter notebook decided to crash on me so I decided to write down my documentation here. <p>
 To learn arm assembly, writing in arm, troubleshooting arm, building.
 The purpose of recursive Merge Sort:
 This merge sort calls for two lists by breaking the array into two. It then orders them separately 
